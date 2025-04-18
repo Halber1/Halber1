@@ -3,21 +3,25 @@
 ### I'm a future developer.
 
 
-[![An old rock in the desert](https://images.pexels.com/photos/13947197/pexels-photo-13947197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![An old rock in the desert](https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-**Algo Sobre mi:
+## Algo Sobre mi:
 
-Actualmente estoy estoy cursando un bootcam en la academia 4weeks, 
+Actualmente estoy estoy cursando un bootcam en la academia 4weeks. 
 
-estoy entusiasmado y a la vez abrunmado. Mis espectativas son muy altas y quiero terminar siendo un desarrollador excelente,
+Estoy entusiasmado y a la vez abrunmado. Mis espectativas son muy altas y quiero terminar siendo un desarrollador excelente,
 y poder destacar en el mercado laboral.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+👨‍💼 Actualmente estoy trabajando para una tecnológica, el fabricanbte de Software "Inconcert".
+
+🤯 En la actualidad estoy estudiando un bootcam de de Fullstack.
+
+👐 Estoy abierto a nuevas ofertas de trabajo que puedan impulsar mi carrera como desarrollador.
+
+
+ ## How to reach me:
+
+![htmlToMarkdown](<i class="fa-brands fa-linkedin"></i>)
+
 - ⚡ Fun fact: ...
