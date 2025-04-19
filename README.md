@@ -8,20 +8,20 @@
 
 ## Algo Sobre mi:
 
-Actualmente estoy estoy cursando un bootcam en la academia 4weeks. 
+Actualmente estoy estoy cursando el bootcam de "Full stack developer" en la academia 4weeks. 
 
 Estoy entusiasmado y a la vez abrunmado. Mis espectativas son muy altas y quiero terminar siendo un desarrollador excelente,
-y poder destacar en el mercado laboral.
+y poder destacar en el mercado laboral. Esto no solo me hará crecer profesionalmente si no que me gratificara a nmivel personal.
 
-👨‍💼 Actualmente estoy trabajando para una tecnológica, el fabricanbte de Software "Inconcert".
+👨‍💼 En la actualidad trabajo para una tecnológica, el fabricanbte de Software "Inconcert".
 
-🤯 En la actualidad estoy estudiando un bootcam de de Fullstack.
+🤯 Actualmente estoy estudiando para ser desarrollador, pero mi formación es como licenciado en "Marketing y Gestión Comercial".
 
 👐 Estoy abierto a nuevas ofertas de trabajo que puedan impulsar mi carrera como desarrollador.
 
 
  ## How to reach me:
 
-![htmlToMarkdown](<i class="fa-brands fa-linkedin"></i>)
 
-- ⚡ Fun fact: ...
+
+![image](https://github.com/user-attachments/assets/ac9c4a8a-3e10-46cf-8ef6-8783787181a8) ![image](https://github.com/user-attachments/assets/6a904d5e-2bcd-49ef-9a0f-4eb36ea04c7c) ![image](https://github.com/user-attachments/assets/f7a4e679-b475-4b0b-9e14-9c457b13602d) ![image](https://github.com/user-attachments/assets/3d1b2206-a3ac-4ecc-ab74-eb59efbc72f6)
