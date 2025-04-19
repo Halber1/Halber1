@@ -10,7 +10,7 @@
 
 Actualmente estoy estoy cursando el bootcam de "Full stack developer" en la academia 4weeks. 
 
-Estoy entusiasmado y a la vez abrunmado. Mis espectativas son muy altas y quiero terminar siendo un desarrollador excelente,
+Estoy entusiasmado y a la vez abrumado. Mis espectativas son muy altas y quiero terminar siendo un desarrollador excelente,
 y poder destacar en el mercado laboral. Esto no solo me hará crecer profesionalmente si no que me gratificara a nmivel personal.
 
 👨‍💼 En la actualidad trabajo para una tecnológica, el fabricanbte de Software "Inconcert".
